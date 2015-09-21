@@ -12,7 +12,7 @@ Attualmente ci sono 3 versioni di Tfum:
 
 L'eseguibile singolo và semplicemente installato mentre la cartella zippata deve solo essere estratta in una destinazione a scelta. L'eseguibile portable può essere eseguito dove si vuole.
 Tutte le versioni necessitano di un ulteriore file *obbligatoriamente* da chiamare elenco.txt che conterrà i nomi delle carte (la lingua deve essere la stessa utilizzata in Hearthstone), uno per riga (anche per le carte in doppia copia, devono esserci 2 righe uguali) e terminerà con una riga vuota (altrimenti l'ultima carta non verrà aggiunta).
-
+Dopo l'avvio del programma si verrà avvisati della mancanza del file elenco.txt e successivamente della risoluzione supportata. Una volta selezionata, si avranno 3 secondi per cliccare nella barra dell'inserimento nomi della modifica mazzo in Hearthstone. Il resto è automatico.
 
 ### Versione
 0.1.0
